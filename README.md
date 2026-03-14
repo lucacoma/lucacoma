@@ -4,5 +4,5 @@ I am an assistant professor (RTDA) at Politecnico di Milano, Milan Italy. I am m
 
 - 🔭 I’m currently working on human-centric genAI audio models
 - 👯 I’m looking to collaborate on anything audio/music/machine learning related!
-- 📫 How to reach me: luca.comanducci@polimi.it, lucascomanducci@gmail.com
+- 📫 How to reach me: luca.comanducci@polimi.it
 - 😄 Pronouns: He/Him
